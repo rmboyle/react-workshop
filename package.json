@@ -2,7 +2,7 @@
   "name": "react-workshop",
   "version": "0.0.0",
   "description": "PP React Workship 2015",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "npm run dev",
     "dev": "webpack-dev-server --progress --colors --port 8090"
