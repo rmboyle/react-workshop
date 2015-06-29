@@ -1,0 +1,4 @@
+# npm packages installed through npm install
+node_modules/
+# npm error logs
+npm-debug.log
